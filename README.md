@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @AleksTrashenkov
-- 👀 I’m interested in Java, Java Script, Python and QA
-- 🌱 I’m currently learning Java.
-- J💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+1 👋 Hi, I’m @AleksTrashenkov
+2 👀 I’m interested in:
+- Java;
+- Java Script;
+- Python;
+- QA;
+- Linux Servers and OS Linux.
+3 🌱 I’m currently learning Java.
 
 <!---
 AleksTrashenkov/AleksTrashenkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
